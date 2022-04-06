@@ -5,3 +5,5 @@
 - garcia 
 - jr 
 - mushi
+- bok
+- shai
