@@ -47,7 +47,7 @@ the key findings of this study may be significant and redound the following enti
 - **Plan for food rescue**
     - Aid in the fight against poverty and hunger, particularly in the Philippines.
     - Generate community harmony and trust.
--** Approach for animal feed**
+- **Approach for animal feed**
     - Lessen the chance of stray animals starving to death.
 
 **Recycling Plan**
