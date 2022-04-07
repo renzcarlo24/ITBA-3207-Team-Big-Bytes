@@ -44,7 +44,7 @@ the key findings of this study may be significant and redound the following enti
     2. Save the environment.
     
 **Reduction Plan**
-- ** Plan for food rescue **
+- **Plan for food rescue**
     1. Aid in the fight against poverty and hunger, particularly in the Philippines.
     2. Generate community harmony and trust.
 -** Approach for animal feed**
