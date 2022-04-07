@@ -61,32 +61,30 @@ the key findings of this study may be significant and redound the following enti
     
 ## References
 
-Richie, H (2020), Food waste is responsible for 6% of global greenhouse gas emissions. Retrieved from Our World in Data: (https://ourworldindata.org/food-waste-emissions).
+[Richie, H (2020), Food waste is responsible for 6% of global greenhouse gas emissions. Retrieved from Our World in Data:](https://ourworldindata.org/food-waste-emissions).
 
-Seberini, A, (2020) Economic, social and environmental world impacts of food waste on society and Zero waste as a global approach to their elimination: (https://www.researchgate.net/publication/338507993_Economic_social_and_environmental_world_impacts_of_food_waste_on_society_and_Zero_waste_as_a_global_approach_to_their_elimination).
+[Seberini, A, (2020) Economic, social and environmental world impacts of food waste on society and Zero waste as a global approach to their elimination:](https://www.researchgate.net/publication/338507993_Economic_social_and_environmental_world_impacts_of_food_waste_on_society_and_Zero_waste_as_a_global_approach_to_their_elimination).
 
-Food and Agriculture Organization. Food Loss and Food Waste: (https://www.fao.org/food-loss-and-food-waste/flw-data).
+[Food and Agriculture Organization. Food Loss and Food Waste:](https://www.fao.org/food-loss-and-food-waste/flw-data).
 
-Food and Agriculture Organization. Policy Measures for Managing Quality and reducing harvest losses in fresh produce supply chains in South Asian countries: (https://www.fao.org/3/i7954e/i7954e.pdf).
+[Food and Agriculture Organization. Policy Measures for Managing Quality and reducing harvest losses in fresh produce supply chains in South Asian countries:](https://www.fao.org/3/i7954e/i7954e.pdf).
 
-UN Environment Program Food Waste Index Report 2021: (https://www.unep.org/resources/report/unep-food-waste-index-report-2021.).
+[UN Environment Program Food Waste Index Report 2021:](https://www.unep.org/resources/report/unep-food-waste-index-report-2021.)
 
-The malady of food waste: Millions starve as trash bins fill with leftovers:  (https://newsinfo.inquirer.net/1505252/the-malady-of-food-waste-millions-starve-as-trash-bins-fill-with-leftovers).
+[The malady of food waste: Millions starve as trash bins fill with leftovers:](https://newsinfo.inquirer.net/1505252/the-malady-of-food-waste-millions-starve-as-trash-bins-fill-with-leftovers).
 
-Other Food Waste Datasets: 
-(https://stats.oecd.org/Index.aspx?DataSetCode=FOOD_WASTE).
+[Other Food Waste Datasets:](https://stats.oecd.org/Index.aspx?DataSetCode=FOOD_WASTE).
 (https://www.fda.gov/food/consumers/food-loss-and-waste). 
 
-Industrial uses
-(https://www.epa.gov/sustainable-management-food/industrial-uses-wasted-food#:~:text=Recycling%20wasted%20food%20through%20anaerobic,treatment%20plants%20and%20manure%20digesters). 
+[Industrial uses](https://www.epa.gov/sustainable-management-food/industrial-uses-wasted-food#:~:text=Recycling%20wasted%20food%20through%20anaerobic,treatment%20plants%20and%20manure%20digesters). 
 
-Food Waste Management by Disposal Method: (https://www.technavio.com/report/food-waste-management-market-size-industry-analysis).
+[Food Waste Management by Disposal Method:](https://www.technavio.com/report/food-waste-management-market-size-industry-analysis).
 
-Data Collected of Food Waste: https://www.researchgate.net/figure/Data-collected-shown-in-an-excel-format_fig3_331373222
+[Data Collected of Food Waste:](https://www.researchgate.net/figure/Data-collected-shown-in-an-excel-format_fig3_331373222)
 
-Food Waste Minimization: https://www.researchgate.net/publication/332632695_Internet_of_Things_IoT_Literature_Review_of_investigating_applications_of_IoT_for_food_waste_minimization
+[Food Waste Minimization:](https://www.researchgate.net/publication/332632695_Internet_of_Things_IoT_Literature_Review_of_investigating_applications_of_IoT_for_food_waste_minimization)
 
-The Digitisation of Food Manufacturing to Reduce Waste: https://www.researchgate.net/publication/331373222_The_digitisation_of_food_manufacturing_to_reduce_waste_-_Case_study_of_a_ready_meal_factory
+[The Digitisation of Food Manufacturing to Reduce Waste:](https://www.researchgate.net/publication/331373222_The_digitisation_of_food_manufacturing_to_reduce_waste_-_Case_study_of_a_ready_meal_factory)
 
 
 
