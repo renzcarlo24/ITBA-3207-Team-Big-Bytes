@@ -27,13 +27,13 @@ the key findings of this study may be significant and redound the following enti
 
 **Composting Methodology** - Convert organic waste into fertilizers and soil rich in nutrients. Encourage homes to recycle organic waste. construct cutting-edge facilities for the production of high-quality compost and soil amendments. 
 
-**Plan for food rescue** - Extra food should be donated to local social services, and local communities should be supported. give guidelines for food donation to aid in the recovery and redistribution of safe and edible foods acquire, produce, and redistribute surplus food to low-income communities in collaboration with relevant parties.
+**Plan for Food Rescue** - Extra food should be donated to local social services, and local communities should be supported. give guidelines for food donation to aid in the recovery and redistribution of safe and edible foods acquire, produce, and redistribute surplus food to low-income communities in collaboration with relevant parties.
 
 **Strategy for Industrial Use** - Biofuels are produced using industrial techniques. Renewable energy development. 
 
-**Sources reduction technique** - increase the efficiency and sustainability of production, processing, and distribution. Use IoT to manage food loss and waste efficiency in the supply chain of key food companies. Provide food safety, food labeling, and donation standards for businesses and consumers. Improve inventory management and procurement operations by facilitating a sustainable food procurement.
+**Sources Reduction Technique** - increase the efficiency and sustainability of production, processing, and distribution. Use IoT to manage food loss and waste efficiency in the supply chain of key food companies. Provide food safety, food labeling, and donation standards for businesses and consumers. Improve inventory management and procurement operations by facilitating a sustainable food procurement.
 
-**Approach for animal feed** – divert food scraps to feed animals. Anyone can offer food scraps to animals if they are handled properly and safely. Farmers and businesses can save money by feeding scraps to animals. Rather than having food scraps carried to a landfill, it is typically cheaper to feed them to animals. Companies can also give excess food to zoos or animal or pet food manufacturers. Collaboration between appropriate agencies to supply stray animals with nutritious food. 
+**Approach for Animal Feed** – divert food scraps to feed animals. Anyone can offer food scraps to animals if they are handled properly and safely. Farmers and businesses can save money by feeding scraps to animals. Rather than having food scraps carried to a landfill, it is typically cheaper to feed them to animals. Companies can also give excess food to zoos or animal or pet food manufacturers. Collaboration between appropriate agencies to supply stray animals with nutritious food. 
 
 
 #### Expected Output
