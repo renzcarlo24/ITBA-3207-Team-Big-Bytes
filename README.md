@@ -40,23 +40,23 @@ the key findings of this study may be significant and redound the following enti
 
 **Prevention Plan**
 - **Source Reduction**
-    1. Reduce the cost of garbage removal and handling.
-    2. Save the environment.
+    - Reduce the cost of garbage removal and handling.
+    - Save the environment.
     
 **Reduction Plan**
 - **Plan for food rescue**
-    1. Aid in the fight against poverty and hunger, particularly in the Philippines.
-    2. Generate community harmony and trust.
+    - Aid in the fight against poverty and hunger, particularly in the Philippines.
+    - Generate community harmony and trust.
 -** Approach for animal feed**
-    1. Lessen the chance of stray animals starving to death.
+    - Lessen the chance of stray animals starving to death.
 
 **Recycling Plan**
 - **Strategy for Industrial Use**
-    1. Remote and rural places should have access to electricity. 
-    2. Job possibilities in the biofuel industry should be made available.
+    - Remote and rural places should have access to electricity. 
+    - Job possibilities in the biofuel industry should be made available.
 - **Composting Methodology**
-    1. Encourage better agricultural crop yields.
-    2. Reduce the amount of methane released into the atmosphere.
+    - Encourage better agricultural crop yields.
+    - Reduce the amount of methane released into the atmosphere.
     
     
 #### References
