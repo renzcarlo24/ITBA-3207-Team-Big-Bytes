@@ -82,6 +82,12 @@ Industrial uses
 
 Food Waste Management by Disposal Method: (https://www.technavio.com/report/food-waste-management-market-size-industry-analysis).
 
+Data Collected of Food Waste: https://www.researchgate.net/figure/Data-collected-shown-in-an-excel-format_fig3_331373222
+
+Food Waste Minimization: https://www.researchgate.net/publication/332632695_Internet_of_Things_IoT_Literature_Review_of_investigating_applications_of_IoT_for_food_waste_minimization
+
+The Digitisation of Food Manufacturing to Reduce Waste: https://www.researchgate.net/publication/331373222_The_digitisation_of_food_manufacturing_to_reduce_waste_-_Case_study_of_a_ready_meal_factory
+
 
 
 
