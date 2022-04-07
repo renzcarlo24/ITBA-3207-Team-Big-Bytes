@@ -1,15 +1,15 @@
 # A Data-driven Approach to Reduce Food Waste
 
-#### Introduction
+## Introduction
 
 Food Waste is one of the big problems in our society and is a growing public concern. In fact, it represents a global problem which brings implications for people as well as for the planet. Food waste burdens environmental problems as it is the major contributor in climate change, loss of biodiversity and pollution. According to the Food and Agriculture Organization of the UN (FAO), Approximately 30% of food produced for human consumption around the world is either lost or wasted each year which is equivalent to 1.3 billion tons of food. This contributes to the emission of greenhouse gasses from landfills. Food wastes have initiated several challenges in the modern world whose impacts can be seen today in economic, social and environmental sustainability. When a human wastes food, it’s not just the food that is being wasted but also all the energy and water it takes to grow, harvest, transport, and package. This is why we should address the food waste issue seriously. After collecting relevant datasets, the study aims to provide key findings, key areas and a comparison analysis in US and Philippines’ food waste. Furthermore, the researchers will provide food waste baseline strategies to achieve a sustainable country in reducing food waste. The primary goal of this analysis is to find out the causes behind the food waste at different levels and analyze the approaches and procedures undertaken by the US and Philippines. Additionally, the study will provide necessary recommendations in relation to food waste issue. 
 
-#### Problem Statement 
+## Problem Statement 
 
 The continuous rising of food waste is very relevant in our times today and that’s what this data research analysis aim to address. Many campaigns are being done in order to reduce food waste in the Philippines. There are even private sectors and movement that has campaign against food waste and one of it is Pilipinas Kontra Gutom (Philippines against Hunger) wherein they accept food donations in the form of canned or processed food that are near their expiration date, through this, food waste can be reduced and no food will spoil (Business World 2021). However, according to UNEP 2021 (UN Environment Programme), the major contributors to food waste in Philippines comes from private household (11%), food establishments (5%) and retailers (2%). Using these data, it seeks to add environmental and social considerations so that more sustainable solutions can be achieved from the range of feasible waste management options.This paper seeks to add environmental and social considerations so that more sustainable solutions can be achieved from the range of feasible waste management options. 
 
 
-#### Significance of the proposed topic
+## Significance of the proposed topic
 the key findings of this study may be significant and redound the following entities
 
 **Community.** Foods that can still be eaten and not spoiled can be donated. This will support one’s community by providing donated untouched food to those who might not have a steady food supply that would have otherwise gone to waste and landfills. There are families that experience hunger while tons of food go to waste each day is a painful irony that we must address. So, this study will tackle the proper food preservation to household by providing plan and strategies so it can be helpful to those who are in need of food. 
@@ -23,7 +23,7 @@ the key findings of this study may be significant and redound the following enti
 **Future Data Analysts.** Other researchers can use the findings of this study as a basis for future studies. 
 
 
-#### Methods
+## Methods
 
 **Composting Methodology** - Convert organic waste into fertilizers and soil rich in nutrients. Encourage homes to recycle organic waste. construct cutting-edge facilities for the production of high-quality compost and soil amendments. 
 
@@ -36,7 +36,7 @@ the key findings of this study may be significant and redound the following enti
 **Approach for Animal Feed** – divert food scraps to feed animals. Anyone can offer food scraps to animals if they are handled properly and safely. Farmers and businesses can save money by feeding scraps to animals. Rather than having food scraps carried to a landfill, it is typically cheaper to feed them to animals. Companies can also give excess food to zoos or animal or pet food manufacturers. Collaboration between appropriate agencies to supply stray animals with nutritious food. 
 
 
-#### Expected Output
+## Expected Output
 
 **Prevention Plan**
 - **Source Reduction**
@@ -59,7 +59,7 @@ the key findings of this study may be significant and redound the following enti
     - Reduce the amount of methane released into the atmosphere.
     
     
-#### References
+## References
 
 Richie, H (2020), Food waste is responsible for 6% of global greenhouse gas emissions. Retrieved from Our World in Data: (https://ourworldindata.org/food-waste-emissions).
 
