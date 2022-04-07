@@ -15,7 +15,7 @@ However, according to UNEP 2021 (United Nations Environment Programme), the majo
 ## Significance of the proposed topic
 the key findings of this study may be significant and redound the following entities
 
-**Community.** Foods that can still be eaten and not spoiled can be donated. This will support one’s community by providing donated untouched food to those who might not have a steady food supply that would have otherwise gone to waste and landfills. There are families that experience hunger while tons of food go to waste each day is a painful irony that we must address. So, this study will tackle the proper food preservation to household by providing plan and strategies so it can be helpful to those who are in need of food. 
+**Community.** Foods that are still edible and haven't gone bad can be donated. This will benefit one’s community by providing donated untouched food to individuals who may not have a consistent food supply that would have otherwise gone to waste and landfills. A cruel irony that we must face is that, there are families that go hungry and yet lots of food goes to waste every day. As a result, this data analysis will address effective food preservation in households by giving a strategy and tactics that will be beneficial to individuals in need of food. 
 
 **Stray Animals.** An approach for animal feed will be covered in this study. Instead of dumping excess food into landfills, it’s more useful if it can serve as food for stray animals. In order to be used for animal feeding, products must either be eatable or uneatable for humans but eatable for animals because spoiled foods contain bacteria and harmful toxins that is harmful for animals. Using the approach for animal feed, this will help reduce food waste. 
 
