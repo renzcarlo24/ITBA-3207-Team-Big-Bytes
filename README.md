@@ -17,7 +17,7 @@ the key findings of this study may be significant and redound the following enti
 
 **Community.** Foods that are still edible and haven't gone bad can be donated. This will benefit one’s community by providing donated untouched food to individuals who may not have a consistent food supply that would have otherwise gone to waste and landfills. A cruel irony that we must face is that, there are families that go hungry and yet lots of food goes to waste every day. As a result, this data analysis will address effective food preservation in households by giving a strategy and tactics that will be beneficial to individuals in need of food. 
 
-**Animals on the loose.** An approach for animal feed will be covered in this study. Instead of dumping excess food into landfills, it’s more useful if it can serve as food for stray animals. In order to be used for animal feeding, products must either be eatable or uneatable for humans but eatable for animals because spoiled foods contain bacteria and harmful toxins that are harmful for animals. Using the method for animal feed wiil  help reduce food waste. 
+**Animal Welfare Organization.** An approach for animal feed will be covered in this study. Instead of dumping excess food into landfills, it’s more useful if it can serve as food for stray animals. In order to be used for animal feeding, products must either be eatable or uneatable for humans but eatable for animals because spoiled foods contain bacteria and harmful toxins that are harmful for animals. Using the method for animal feed wiil  help reduce food waste. 
 
 **Government.** The analysis and key findings in this study can be use by any government sectors in reducing waste to achieve sustainable solutions can be derived from the range of feasible waste management options in this study.
 
@@ -75,6 +75,10 @@ the key findings of this study may be significant and redound the following enti
 [UN Environment Program Food Waste Index Report 2021:](https://www.unep.org/resources/report/unep-food-waste-index-report-2021.)
 
 [The malady of food waste: Millions starve as trash bins fill with leftovers:](https://newsinfo.inquirer.net/1505252/the-malady-of-food-waste-millions-starve-as-trash-bins-fill-with-leftovers).
+
+[US Environmental Protection Agency: Greenhouse Gas Emissions:](https://www.epa.gov/ghgemissions/overview-greenhouse-gases).
+
+[United Nations Economic Commission for Europe: Sustainable Energy: Methane: :](https://unece.org/challenge).
 
 [Other Food Waste Datasets:](https://stats.oecd.org/Index.aspx?DataSetCode=FOOD_WASTE).
 (https://www.fda.gov/food/consumers/food-loss-and-waste). 
