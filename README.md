@@ -80,6 +80,9 @@ Industrial uses
 
 Food Waste Management by Disposal Method: (https://www.technavio.com/report/food-waste-management-market-size-industry-analysis).
 
+Food Waste Management by Disposal Method: (https://www.technavio.com/report/food-waste-management-market-size-industry-analysis).
+
+
 
 
 
