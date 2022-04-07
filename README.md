@@ -4,7 +4,7 @@
 
 Food Waste is one of our society's and it is a growing public concern. In fact, it represents a global problem with implications for both people and the environment. Food waste exacerbates environmental issues by being a major contributor in climate change, loss of biodiversity and pollution. According to the Food and Agriculture Organization of the United Nations (FAO), approximately 30% of food produced for human consumption worldwide is either lost or wasted each year which is equivalent to 1.3 billion tons of food. This contributes to the emission of greenhouse gasses from landfills. Food wastes have initiated several challenges in the modern world whose impacts can be seen today in economic, social and environmental sustainability. When a human waste food, thwy waste not only the food itself, but also all the energy and water required to grow, harvest, transport, and package it. This is why we should address the food waste issue seriously. 
 
-Following the collection of relevant datasets, the study intends to provide key findings, key areas and a comparison analysis of food waste in the United States and Philippines. Furthermore, the researchers will provide food waste baseline strategies to help the country achieve a sustainable level of food waste reduction. The primary goal of this analysis is to identify the cause behind the food waste at various levels and to compare and contrast the approaches and procedures undertaken by the United States and Philippines. Furthermore, the study will make necessary recommendations regarding the issue of food waste.
+
 
 ## Problem Statement 
 
@@ -17,7 +17,7 @@ the key findings of this study may be significant and redound the following enti
 
 **Community.** Foods that are still edible and haven't gone bad can be donated. This will benefit one’s community by providing donated untouched food to individuals who may not have a consistent food supply that would have otherwise gone to waste and landfills. A cruel irony that we must face is that, there are families that go hungry and yet lots of food goes to waste every day. As a result, this data analysis will address effective food preservation in households by giving a strategy and tactics that will be beneficial to individuals in need of food. 
 
-**Stray Animals.** An approach for animal feed will be covered in this study. Instead of dumping excess food into landfills, it’s more useful if it can serve as food for stray animals. In order to be used for animal feeding, products must either be eatable or uneatable for humans but eatable for animals because spoiled foods contain bacteria and harmful toxins that is harmful for animals. Using the approach for animal feed, this will help reduce food waste. 
+**Stray Animals.** An approach for animal feed will be covered in this study. Instead of dumping excess food into landfills, it’s more useful if it can serve as food for stray animals. In order to be used for animal feeding, products must either be eatable or uneatable for humans but eatable for animals because spoiled foods contain bacteria and harmful toxins that are harmful for animals. Using the method for animal feed wiil  help reduce food waste. 
 
 **Government.** The analysis and key findings in this study can be use by any government sectors in reducing waste to achieve sustainable solutions can be derived from the range of feasible waste management options in this study.
 
