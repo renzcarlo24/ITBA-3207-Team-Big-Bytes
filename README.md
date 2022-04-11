@@ -66,6 +66,10 @@ the key findings of this study may be significant and redound the following enti
 
 [Richie, H (2020), Food waste is responsible for 6% of global greenhouse gas emissions. Retrieved from Our World in Data:](https://ourworldindata.org/food-waste-emissions).
 
+[UNEP: Over 930 million tons of food wasted in 2019](https://www.philstar.com/headlines/2021/03/09/2082981/unep-over-930-million-tons-food-wasted-2019)
+
+[The malady of food waste: Millions starve as trash bins fill with leftovers](https://newsinfo.inquirer.net/1505252/the-malady-of-food-waste-millions-starve-as-trash-bins-fill-with-leftovers)
+
 [Seberini, A, (2020) Economic, social and environmental world impacts of food waste on society and Zero waste as a global approach to their elimination:](https://www.researchgate.net/publication/338507993_Economic_social_and_environmental_world_impacts_of_food_waste_on_society_and_Zero_waste_as_a_global_approach_to_their_elimination).
 
 [Food and Agriculture Organization. Food Loss and Food Waste:](https://www.fao.org/food-loss-and-food-waste/flw-data).
