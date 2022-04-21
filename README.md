@@ -13,13 +13,13 @@ The ongoing rise in food waste is very relevant in our times today and this data
 However, according to UNEP 2021 (United Nations Environment Programme), the major contributors to food waste in Philippines come from a variety of sources, including private households (11%), food establishments (5%) and retailers (2%). Using these data, it seeks to add environmental and social considerations in order to achieved more sustainable solutions from the range of feasible waste management options. In addition to the issues that must be addressed, when food dumped in landfills that is wrapped inside the plastic bags and eventually trapped in massive piles of garbage, it is deprived of oxygen, which is a necessary component for food to decompose naturally. As a result, the rotting food releases methane – a potent greenhouse gas with a global warming potential that is approximately 28-34 times greater than carbon dioxide. 
 
 ## Significance of the proposed topic
-the key findings of this study may be significant and redound the following entities
+The key findings of this study may be significant and redound the following entities
 
 **Community.** Foods that are still edible and haven't gone bad can be donated. This will benefit one’s community by providing donated untouched food to individuals who may not have a consistent food supply that would have otherwise gone to waste and landfills. A cruel irony that we must face is that, there are families that go hungry and yet lots of food goes to waste every day. As a result, this data analysis will address effective food preservation in households by giving a strategy and tactics that will be beneficial to individuals in need of food. 
 
 **Animal Welfare Organization.** An approach for animal feed will be covered in this study. Instead of dumping excess food into landfills, it’s more useful if it can serve as food for stray animals. In order to be used for animal feeding, foods must either be edible or inedible for humans but surely consumable for animals because spoiled foods contain bacteria and harmful toxins are harmful for animals. Using the method for animal feed wiil  help reduce food waste. 
 
-**Government.** The analysis and key findings in this study can be use by any government sectors in reducing waste to achieve sustainable solutions can be derived from the range of feasible waste management options in this study.
+**Government.** The analysis and key findings of this study can be use by any government sectors in reducing waste to achieve sustainable solutions that can be derived from the range of feasible waste management options in this study.
 
 **Farmer or Agriculturists.** Since the study also cover the food waste that can be converted into organic fertilizers, the plants to be grown in the rich soil will be apparently healthy. Those who grow plants particularly farmers, will find this analysis useful for a quick but secure production of crops through the method of using the food waste as organic fertilizers instead of chemical fertilizers.
 
@@ -30,13 +30,13 @@ the key findings of this study may be significant and redound the following enti
 
 **Composting Methodology** - Convert organic waste into fertilizers and soil rich in nutrients. Encourage homes to recycle organic waste. construct cutting-edge facilities for the production of high-quality compost and soil amendments. 
 
-**Plan for Food Rescue** - Extra food should be donated to local social services, and local communities should be supported. give guidelines for food donation to aid in the recovery and redistribution of safe and edible foods acquire, produce, and redistribute surplus food to low-income communities in collaboration with relevant parties.
+**Plan for Food Rescue** - Extra food should be donated to local social services, and local communities should be supported. Give guidelines for food donation to aid in the recovery and redistribution of safe and edible foods acquire, produce, and redistribute surplus food to low-income communities in collaboration with relevant parties.
 
 **Strategy for Industrial Use** - Biofuels are produced using industrial techniques. Renewable energy development. 
 
-**Sources Reduction Technique** - increase the efficiency and sustainability of production, processing, and distribution. Use IoT to manage food loss and waste efficiency in the supply chain of key food companies. Provide food safety, food labeling, and donation standards for businesses and consumers. Improve inventory management and procurement operations by facilitating a sustainable food procurement.
+**Sources Reduction Technique** - Increase the efficiency and sustainability of production, processing, and distribution. Use IoT to manage food loss and waste efficiency in the supply chain of key food companies. Provide food safety, food labeling, and donation standards for businesses and consumers. Improve inventory management and procurement operations by facilitating a sustainable food procurement.
 
-**Approach for Animal Feed** – divert food scraps to feed animals. Anyone can offer food scraps to animals if they are handled properly and safely. Farmers and businesses can save money by feeding scraps to animals. Rather than having food scraps carried to a landfill, it is typically cheaper to feed them to animals. Companies can also give excess food to zoos or animal or pet food manufacturers. Collaboration between appropriate agencies to supply stray animals with nutritious food. 
+**Approach for Animal Feed** – Divert food scraps to feed animals. Anyone can offer food scraps to animals if they are handled properly and safely. Farmers and businesses can save money by feeding scraps to animals. Rather than having food scraps carried to a landfill, it is typically cheaper to feed them to animals. Companies can also give excess food to zoos or animal or pet food manufacturers. Collaboration between appropriate agencies to supply stray animals with nutritious food. 
 
 
 ## Expected Output
