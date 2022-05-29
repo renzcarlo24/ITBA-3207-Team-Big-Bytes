@@ -2,22 +2,20 @@
 
 ## Introduction
 
-Food Waste is one of our society's and it is a growing public concern. In fact, it represents a global problem with implications for both people and the environment. Food waste exacerbates environmental issues by being a major contributor in climate change, loss of biodiversity and pollution. According to the Food and Agriculture Organization of the UN (FAO), roughly 30% of food produced for human consumption worldwide is either lost or wasted each year which is equivalent to 1.3 billion tons of food. This contributes to the emission of greenhouse gasses from landfills. Food wastes have initiated several challenges in the modern world whose impacts can be seen today in economic, social and environmental sustainability. When a human waste food, thwy waste not only the food itself, but also all the energy and water required to grow, harvest, transport, and package it. This is why we should address the food waste issue seriously. 
+Food Waste is one of our society's and it is a growing public concern. In fact, it represents a global problem with implications for both people and the environment. Food waste exacerbates environmental issues by being a major contributor in climate change, loss of biodiversity and pollution. According to the Food and Agriculture Organization of the UN (FAO), roughly 30% of food produced for human consumption worldwide is either lost or wasted each year which is equivalent to 1.3 billion tons of food. This contributes to the emission of greenhouse gasses from landfills. Food wastes have initiated several challenges in the modern world whose impacts can be seen today in economic, social and environmental sustainability.This is why we should address the food waste issue seriously. 
 
-Following the collection of relevant datasets, the study intends to provide key findings, key areas and a comparison analysis of food waste in the United States and Philippines. Furthermore, the researchers will provide food waste baseline strategies to help the country achieve a sustainable level of food waste reduction. The primary goal of this analysis is to identify the causes behind the food waste at various levels and to compare and contrast the approaches and procedures undertaken by the US and Philippines. Furthermore, the study will make necessary recommendations regarding the issue of food waste.
+ASEAN countries have a combined population of almost 625 million people, accounting for 8.8% of the global population. According to a survey conducted by Future Directions International (FDI), Southeast Asia accounts for 25% of global food waste. Food wastes have initiated several challenges not just in Southeast Asia, but in the modern world whose impacts can be seen today in economic, social and environmental sustainability. 
+
+The primary goal of this analysis is to identify the causes of food waste at various levels in SouthEast Asia and to compare the procedures undertaken by France which is known for being the most food sustainable country. Food wastage occurs at every stage of the food supply chain, from production to retail and consumption. Furthermore, the analysts will provide food waste baseline strategies to help the country achieve a sustainable level of food waste reduction.
 
 ## Problem Statement 
 
-The ongoing rise in food waste is very relevant in our times today and this data analysis aims to address it. Many campaigns are being launched in order to reduce food waste in the Philippines. There are even private sectors and movement that have campaigns against food waste, such as Pilipinas Kontra Gutom (Philippines Against Hunger) which accepts food donations in the form of canned or processed food tha is nearing its epiration date, through this, food waste can be reduced and no food will spoil (Business World 2021).
-
-However, according to UNEP 2021 (United Nations Environment Programme), the major contributors to food waste in Philippines come from a variety of sources, including private households (11%), food establishments (5%) and retailers (2%). Using these data, it seeks to add environmental and social considerations in order to achieved more sustainable solutions from the range of feasible waste management options. In addition to the issues that must be addressed, when food dumped in landfills that is wrapped inside the plastic bags and eventually trapped in massive piles of garbage, it is deprived of oxygen, which is a necessary component for food to decompose naturally. As a result, the rotting food releases methane – a potent greenhouse gas with a global warming potential that is approximately 28-34 times greater than carbon dioxide. 
+The ongoing rise in food waste is very relevant in our times today and this data analysis aims to address it. The main problem in this project is the ineffective interventions in preventing and minimizing food wastes implemented in Southeast Asia. Food waste is common in Southeast Asia, with serious consequences for regional food, environmental, and economic security. The reasons of wasted food along Southeast Asian supply chains are very comparable to those seen elsewhere in the world, however established interventions for preventing and minimizing food waste are not extensively applied. 
 
 ## Significance of the proposed topic
 The key findings of this study may be significant and redound the following entities
 
-**Community.** Foods that are still edible and haven't gone bad can be donated. This will benefit one’s community by providing donated untouched food to individuals who may not have a consistent food supply that would have otherwise gone to waste and landfills. A cruel irony that we must face is that, there are families that go hungry and yet lots of food goes to waste every day. As a result, this data analysis will address effective food preservation in households by giving a strategy and tactics that will be beneficial to individuals in need of food. 
-
-**Animal Welfare Organization.** An approach for animal feed will be covered in this study. Instead of dumping excess food into landfills, it’s more useful if it can serve as food for stray animals. In order to be used for animal feeding, foods must either be edible or inedible for humans but surely consumable for animals because spoiled foods contain bacteria and harmful toxins are harmful for animals. Using the method for animal feed wiil  help reduce food waste. 
+**Community.** Foods that are still edible and haven't gone bad can be donated. This will benefit one’s community by providing donated untouched food to individuals who may not have a consistent food supply that would have otherwise gone to waste and landfills. A cruel irony that we must face is that, there are families that go hungry and yet lots of food goes to waste every day. As a result, this data analysis will address effective food preservation in households by giving a strategy and tactics that will be beneficial to individuals in need of food.  
 
 **Government.** The analysis and key findings of this study can be use by any government sectors in reducing waste to achieve sustainable solutions that can be derived from the range of feasible waste management options in this study.
 
@@ -32,19 +30,10 @@ The key findings of this study may be significant and redound the following enti
 
 **Plan for Food Rescue** - Extra food should be donated to local social services, and local communities should be supported. Give guidelines for food donation to aid in the recovery and redistribution of safe and edible foods acquire, produce, and redistribute surplus food to low-income communities in collaboration with relevant parties.
 
-**Strategy for Industrial Use** - Biofuels are produced using industrial techniques. Renewable energy development. 
-
-**Sources Reduction Technique** - Increase the efficiency and sustainability of production, processing, and distribution. Use IoT to manage food loss and waste efficiency in the supply chain of key food companies. Provide food safety, food labeling, and donation standards for businesses and consumers. Improve inventory management and procurement operations by facilitating a sustainable food procurement.
-
 **Approach for Animal Feed** – Divert food scraps to feed animals. Anyone can offer food scraps to animals if they are handled properly and safely. Farmers and businesses can save money by feeding scraps to animals. Rather than having food scraps carried to a landfill, it is typically cheaper to feed them to animals. Companies can also give excess food to zoos or animal or pet food manufacturers. Collaboration between appropriate agencies to supply stray animals with nutritious food. 
 
 
 ## Expected Output
-
-**Prevention Plan**
-- **Source Reduction**
-    - Reduce the cost of garbage removal and handling.
-    - Save the environment.
     
 **Reduction Plan**
 - **Plan for food rescue**
@@ -60,8 +49,16 @@ The key findings of this study may be significant and redound the following enti
 - **Composting Methodology**
     - Encourage better agricultural crop yields.
     - Reduce the amount of methane released into the atmosphere.
+
+## Sustainable Development Goals
+The SDG’s below are the target of this project: 
     
-    
+**SDG Goal 2: Zero Hunger** This SDG aims to end hunger and ensure that all people, particularly the poor and those in vulnerable situations, including infants, have access to safe, nutritious, and sufficient food throughout the year. (United Nations, n.d.)
+
+**SDG Goal 12: Responsible Consumption and Production** This SDG targets to achieve sustainable management, efficient use of natural resources, and significant waste reduction through waste prevention, reduction, recycling, and reuse. (United Nations, n.d.) 
+        
+**SDG Goal 12.3: Global Food Loss and Waste** This goal aims to halve food waste and reduce food loss by 2030 (United Nations, n.d.)
+
 ## References
 
 [Richie, H (2020), Food waste is responsible for 6% of global greenhouse gas emissions. Retrieved from Our World in Data:](https://ourworldindata.org/food-waste-emissions).
