@@ -57,7 +57,7 @@ The SDG’s below are the target of this project:
 
 **SDG Goal 12: Responsible Consumption and Production** This SDG targets to achieve sustainable management, efficient use of natural resources, and significant waste reduction through waste prevention, reduction, recycling, and reuse. (United Nations, n.d.) 
         
-**SDG Goal 12.3: Global Food Loss and Waste** This goal aims to halve food waste and reduce food loss by 2030 (United Nations, n.d.)
+**SDG Goal 12.3: Global Food Loss and Waste** This goal aims to halve food waste and reduce food loss by 2030 alongside with the production and supply chain that includes podt-harvest losses. (United Nations, n.d.)
 
 ## References
 
