@@ -10,7 +10,7 @@ The primary goal of this analysis is to identify the causes of food waste at var
 
 ## Problem Statement 
 
-The ongoing rise in food waste is very relevant in our times today and this data analysis aims to address it. The main problem in this project is the ineffective interventions in preventing and minimizing food wastes implemented in Southeast Asia. Food waste is common in Southeast Asia, with serious consequences for regional food, environmental, and economic security. The reasons of wasted food along Southeast Asian supply chains are very comparable to those seen elsewhere in the world, however established interventions for preventing and minimizing food waste are not extensively applied. 
+The ongoing rise of food wastes      is very relevant in our times today and this data analysis aims to address it. The main problem in this project is the ineffective interventions in preventing and minimizing food wastes implemented in Southeast Asia. Food waste is common in Southeast Asia, with serious consequences for regional food, environmental, and economic security. The reasons of wasted food along Southeast Asian supply chains are very comparable to those seen elsewhere in the world, however established interventions for preventing and minimizing food waste are not extensively applied. 
 
 ## Significance of the proposed topic
 The key findings of this study may be significant and redound the following entities
@@ -53,11 +53,14 @@ The key findings of this study may be significant and redound the following enti
 ## Sustainable Development Goals
 The SDG’s below are the target of this project: 
     
-**SDG Goal 2: Zero Hunger** This SDG aims to end hunger and ensure that all people, particularly the poor and those in vulnerable situations, including infants, have access to safe, nutritious, and sufficient food throughout the year. (United Nations, n.d.)
+**SDG Goal 2: Zero Hunger** 
+-This SDG aims to end hunger and ensure that all people, particularly the poor and those in vulnerable situations, including infants, have access to safe, nutritious, and sufficient food throughout the year. (United Nations, n.d.)
 
-**SDG Goal 12: Responsible Consumption and Production** This SDG targets to achieve sustainable management, efficient use of natural resources, and significant waste reduction through waste prevention, reduction, recycling, and reuse. (United Nations, n.d.) 
+**SDG Goal 12: Responsible Consumption and Production** 
+-This SDG targets to achieve sustainable management, efficient use of natural resources, and significant waste reduction through waste prevention, reduction, recycling, and reuse. (United Nations, n.d.) 
         
-**SDG Goal 12.3: Global Food Loss and Waste** This goal aims to halve food waste and reduce food loss by 2030 alongside with the production and supply chain that includes post-harvest losses. (United Nations, n.d.)
+**SDG Goal 12.3: Global Food Loss and Waste** 
+-This goal aims to halve food waste and reduce food loss by 2030 alongside with the production and supply chain that includes post-harvest losses. (United Nations, n.d.)
 
 ## References
 
