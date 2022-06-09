@@ -1,3 +1,4 @@
+![](C:/Users/renzc/Downloads/Header.png)
 # Exploratory Data Analysis in Minimizing and Reducing Food Waste
 
 ## Introduction
@@ -38,13 +39,19 @@ The goal of this project is to provide a clear visualization in able to better a
 
 ## Sustainable Development Goals
 The SDG’s below are the target of this project: 
-    
+
+![](C:/Users/renzc/Downloads/SDG2.png)    
+
 **SDG Goal 2: Zero Hunger** 
 -This SDG aims to end hunger and ensure that all people, particularly the poor and those in vulnerable situations, including infants, have access to safe, nutritious, and sufficient food throughout the year. (United Nations, n.d.)
 
+![](C:/Users/renzc/Downloads/SDG12.png)
+
 **SDG Goal 12: Responsible Consumption and Production** 
 -This SDG targets to achieve sustainable management, efficient use of natural resources, and significant waste reduction through waste prevention, reduction, recycling, and reuse. (United Nations, n.d.) 
-        
+
+![](C:/Users/renzc/Downloads/SDG12.3.png)  
+
 **SDG Goal 12.3: Global Food Loss and Waste** 
 -This goal aims to halve food waste and reduce food loss by 2030 alongside with the production and supply chain that includes post-harvest losses. (United Nations, n.d.)
 
