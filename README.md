@@ -1,4 +1,4 @@
-![1](C:/Users/renzc/Downloads/Header.png)
+![Header](https://user-images.githubusercontent.com/103097384/172955209-5f90b0a0-8af0-40cf-b41f-60b800e649ef.png)
 # Exploratory Data Analysis in Minimizing and Reducing Food Waste
 
 ## Introduction
