@@ -1,4 +1,4 @@
-![](C:/Users/renzc/Downloads/Header.png)
+![1](C:/Users/renzc/Downloads/Header.png)
 # Exploratory Data Analysis in Minimizing and Reducing Food Waste
 
 ## Introduction
