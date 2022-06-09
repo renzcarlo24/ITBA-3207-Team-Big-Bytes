@@ -1,16 +1,21 @@
-# A Data-driven Approach to Reduce Food Waste
+# Exploratory Data Analysis in Minimizing and Reducing Food Waste
 
 ## Introduction
 
-Food Waste is one of our society's and it is a growing public concern. In fact, it represents a global problem with implications for both people and the environment. Food waste occurs when there is an oversupply in the production, food not being taken before it get expired, or intentionally discarded by the consumers. Food waste exacerbates environmental issues by being a major contributor in climate change, loss of biodiversity and pollution. According to the Food and Agriculture Organization of the UN (FAO), roughly 30% of food produced for human consumption worldwide is either lost or wasted each year which is equivalent to 1.3 billion tons of food. It is neccessary to address this issue since food wastes have initiated several challenges in the modern world whose impacts can be seen today in economic, social and environmental sustainability. 
 
-ASEAN countries have a combined population of almost 625 million people, accounting for 8.8% of the global population. According to a survey conducted by Future Directions International (FDI), Southeast Asia accounts for 25% of global food waste. However, food wastes have initiated several challenges not just in Southeast Asia, but in the modern world whose impacts can be seen today in economic, social and environmental sustainability. 
+Food waste is one of the global issues that is of great concern to the public. In fact, it has implications for people as well as the environment. Food waste is also considered one of the major contributors to climate change. Food waste is defined as human leftovers, foods that have gone bad, edible parts, and foods that have been thrown away for various reasons. According to the study of the Food and Agriculture Organization of the UN, commonly known as FAO, 30% of food produced for human consumption worldwide gets lost or wasted each year, which is equivalent to 1.3 billion tons of food. All food that is not consumed by humans, which eventually goes to waste, specifically dumped in landfills that produces greenhouse gases. For a variety of reasons, some food consumers throw away food that has passed its expiration date or has gone bad before it is consumed, which has sparked several challenges in the modern world, whose impacts can be seen today in economic and environmental sustainability. This is why we should address the food waste issue seriously.
 
-Food wastage occurs at every stage of the food supply chain, from the production, to household, to retail, and consumption. Furthermore, the analysts will provide food waste baseline strategies to help the country achieve a sustainable level of food waste reduction.  
+South-East Asia countries have a combined population of almost 667 million people in 2021, accounting for 8.44% of the global population. The home, retail, and food service industries account for the vast majority of food waste. These 3 sectors are the major contributor in terms of food waste. According to UNEP, 931 million tonnes of food are wasted across the three sectors.  The household sector consists of the individuals that live under one roof. In retail industry, this pertains to the businesses that sell goods or foods through stores, while the food service sector refers to any establishments that involved in preparing or selling food to people outside their homes (e.g. restaurants, canteen). 
+
+In the Philippines, the survival food in some parts of Payatas Quezon, practiced Pagpag. This means "shaking off the dirt". This is where they look for resources, especially foods in dumpsters or landfills that could still be eaten. They cook foods found in dumpsters and add seasonings to give a better taste. On the other hand, there are foods that are no longer suitable for human consumption, like if the meat is soft, then it has gone bad already. So, the people in Payatas look for meat that is hard. Instead of dumping excess food into the trash, a better way is to donate it or give it to those in need.  This will address one of the target SDGs of this analysis, which is Zero Hunger. 
+
+The primary goal of this exploratory data analysis is to identify how food wastes can be reduced across the three levels in South-East Asia. Furthermore, the analysts will provide food waste baseline strategies to help the country achieve a sustainable level of food waste reduction. 
 
 ## Problem Statement 
 
-The ongoing rise of food wastes      is very relevant in our times today and this data analysis aims to address it. The main problem in this project is the ineffective interventions in preventing and minimizing food wastes implemented in Southeast Asia. Food waste is common in Southeast Asia, with serious consequences for regional food, environmental, and economic security. The reasons of wasted food along Southeast Asian supply chains are very comparable to those seen elsewhere in the world, however established interventions for preventing and minimizing food waste are not extensively applied. 
+**Greenhouse Gasses Emissions from Food Waste.**
+The amount of greenhouse gas emissions is 6%, which comes from food waste. The rotten food goes straight into landfills, which produces methane, whereas it is considered stronger than carbon dioxide. 
+
 
 ## Significance of the proposed topic
 The key findings of this study may be significant and redound the following entities
@@ -19,19 +24,13 @@ The key findings of this study may be significant and redound the following enti
 
 **Government.** The analysis and key findings of this study can be use by any government sectors in reducing waste to achieve sustainable solutions that can be derived from the range of feasible waste management options in this study.
 
-**Farmer or Agriculturists.** Since the study also cover the food waste that can be converted into organic fertilizers, the plants to be grown in the rich soil will be apparently healthy. Those who grow plants particularly farmers, will find this analysis useful for a quick but secure production of crops through the method of using the food waste as organic fertilizers instead of chemical fertilizers.
 
 **Future Data Analysts.** The findings of this study can be used as a foundation for future studies by other researchers. 
 
 
 ## Methods
 
-**Composting Methodology** - Convert organic waste into fertilizers and soil rich in nutrients. Encourage homes to recycle organic waste. construct cutting-edge facilities for the production of high-quality compost and soil amendments. 
-
-**Plan for Food Rescue** - Extra food should be donated to local social services, and local communities should be supported. Give guidelines for food donation to aid in the recovery and redistribution of safe and edible foods acquire, produce, and redistribute surplus food to low-income communities in collaboration with relevant parties.
-
-**Approach for Animal Feed** – Divert food scraps to feed animals. Anyone can offer food scraps to animals if they are handled properly and safely. Farmers and businesses can save money by feeding scraps to animals. Rather than having food scraps carried to a landfill, it is typically cheaper to feed them to animals. Companies can also give excess food to zoos or animal or pet food manufacturers. Collaboration between appropriate agencies to supply stray animals with nutritious food. 
-
+This analysis aims to collect reliable datasets and information that will help researchers gain a deeper understanding in terms of the effects of food waste from different sectors. Most of the datasets came from the United Nations Environment Programme (UNEP) Report 2021. According to this report, 931 million tonnes each year get wasted from the three sectors, including households, retailers, and food service. The other datasets to be used include the waste proportion, population index, and global hunger index. A correlation matrix will also be present to justify the relationship between various variables. In this analysis, the variables that will be used are: ASEAN GDP, population, household tonnes per year, food service tonnes per year, and retail tonnes per year. Furthermore, Linear Regression Analysis will be employed to show the relationship between variables such as three sectors capita per year and population index. 
 
 ## Expected Output
     
@@ -50,20 +49,17 @@ The SDG’s below are the target of this project:
 -This goal aims to halve food waste and reduce food loss by 2030 alongside with the production and supply chain that includes post-harvest losses. (United Nations, n.d.)
 
 ## References
+[UN Environment Program Food Waste Index Report 2021:](https://www.unep.org/resources/report/unep-food-waste-index-report-2021.)
 
 [Richie, H (2020), Food waste is responsible for 6% of global greenhouse gas emissions. Retrieved from Our World in Data:](https://ourworldindata.org/food-waste-emissions).
 
 [UNEP: Over 930 million tons of food wasted in 2019](https://www.philstar.com/headlines/2021/03/09/2082981/unep-over-930-million-tons-food-wasted-2019)
 
-[The malady of food waste: Millions starve as trash bins fill with leftovers](https://newsinfo.inquirer.net/1505252/the-malady-of-food-waste-millions-starve-as-trash-bins-fill-with-leftovers)
-
-[Seberini, A, (2020) Economic, social and environmental world impacts of food waste on society and Zero waste as a global approach to their elimination:](https://www.researchgate.net/publication/338507993_Economic_social_and_environmental_world_impacts_of_food_waste_on_society_and_Zero_waste_as_a_global_approach_to_their_elimination).
 
 [Food and Agriculture Organization. Food Loss and Food Waste:](https://www.fao.org/food-loss-and-food-waste/flw-data).
 
 [Food and Agriculture Organization. Policy Measures for Managing Quality and reducing harvest losses in fresh produce supply chains in South Asian countries:](https://www.fao.org/3/i7954e/i7954e.pdf).
 
-[UN Environment Program Food Waste Index Report 2021:](https://www.unep.org/resources/report/unep-food-waste-index-report-2021.)
 
 [The malady of food waste: Millions starve as trash bins fill with leftovers:](https://newsinfo.inquirer.net/1505252/the-malady-of-food-waste-millions-starve-as-trash-bins-fill-with-leftovers).
 
@@ -71,10 +67,10 @@ The SDG’s below are the target of this project:
 
 [United Nations Economic Commission for Europe: Sustainable Energy: Methane: :](https://unece.org/challenge).
 
-[Other Food Waste Datasets:](https://stats.oecd.org/Index.aspx?DataSetCode=FOOD_WASTE).
-(https://www.fda.gov/food/consumers/food-loss-and-waste). 
+[Food Waste Index:](https://stats.oecd.org/Index.aspx?DataSetCode=FOOD_WASTE).
 
-[Industrial uses](https://www.epa.gov/sustainable-management-food/industrial-uses-wasted-food#:~:text=Recycling%20wasted%20food%20through%20anaerobic,treatment%20plants%20and%20manure%20digesters). 
+[Food Loss and Food Waste: ](https://www.fda.gov/food/consumers/food-loss-and-waste). 
+
 
 [Food Waste Management by Disposal Method:](https://www.technavio.com/report/food-waste-management-market-size-industry-analysis).
 
