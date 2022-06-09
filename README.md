@@ -40,17 +40,17 @@ The goal of this project is to provide a clear visualization in able to better a
 ## Sustainable Development Goals
 The SDG’s below are the target of this project: 
 
-![](C:/Users/renzc/Downloads/SDG2.png)    
+  ![SDG2](https://user-images.githubusercontent.com/103097384/172955452-58436945-9cff-4753-9691-c2f9e6292de1.png)
 
 **SDG Goal 2: Zero Hunger** 
 -This SDG aims to end hunger and ensure that all people, particularly the poor and those in vulnerable situations, including infants, have access to safe, nutritious, and sufficient food throughout the year. (United Nations, n.d.)
 
-![](C:/Users/renzc/Downloads/SDG12.png)
+![SDG12](https://user-images.githubusercontent.com/103097384/172955468-93c63a16-b08a-4871-9942-76f994ce5489.png)
 
 **SDG Goal 12: Responsible Consumption and Production** 
 -This SDG targets to achieve sustainable management, efficient use of natural resources, and significant waste reduction through waste prevention, reduction, recycling, and reuse. (United Nations, n.d.) 
 
-![](C:\Users\renzc\Documents\GitHub\ITBA-3207-Team-Big-Bytes/SDG12.3.png)  
+![SDG12 3](https://user-images.githubusercontent.com/103097384/172955483-88c60425-7230-47aa-b409-210676599993.png)
 
 **SDG Goal 12.3: Global Food Loss and Waste** 
 -This goal aims to halve food waste and reduce food loss by 2030 alongside with the production and supply chain that includes post-harvest losses. (United Nations, n.d.)
