@@ -35,20 +35,7 @@ The key findings of this study may be significant and redound the following enti
 
 ## Expected Output
     
-**Reduction Plan**
-- **Plan for food rescue**
-    - Aid in the fight against poverty and hunger, particularly in the Philippines.
-    - Generate community harmony and trust.
-- **Approach for animal feed**
-    - Lessen the chance of stray animals starving to death.
-
-**Recycling Plan**
-- **Strategy for Industrial Use**
-    - Remote and rural places should have access to electricity. 
-    - Job possibilities in the biofuel industry should be made available.
-- **Composting Methodology**
-    - Encourage better agricultural crop yields.
-    - Reduce the amount of methane released into the atmosphere.
+The goal of this project is to provide a clear visualization in able to better analyze the amount of food production made by the countries in Southeast Asia. The data collected targets to show how massive the total numbers of food waste was made per year and how this contributes to global hunger. This study is expected to serve as awareness to the community, most especially, to the government, to start minimizing and evaluating the factors that contribute to the continuous increase in the number of food waste. It also aims to achieve responsible food consumption and production to avoid unneccessary food waste.  To to attain zero hunger, the excess produced food that is near to its expiry will be recommended to put and make into good use such as donating it to the less fortunate family or individual before it become a food waste.
 
 ## Sustainable Development Goals
 The SDG’s below are the target of this project: 
