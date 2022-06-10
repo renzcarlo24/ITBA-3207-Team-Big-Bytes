@@ -17,6 +17,15 @@ The primary goal of this exploratory data analysis is to identify how food waste
 **Greenhouse Gasses Emissions from Food Waste.**
 The amount of greenhouse gas emissions is 6%, which comes from food waste. The rotten food goes straight into landfills, which produces methane, whereas it is considered stronger than carbon dioxide. 
 
+**Ineffective interventions in preventing and minimizing food wastes implemented in Southeast Asia.**
+These factors also contribute to food waste that is a widespread across the world. Having no effective methods in preventing and reducing food waste, became the serious problem and directly contributing in this environmental issue. Furthermore, established interventions for preventing and minimizing food waste are not extensively applied by some countries. 
+
+**Lack of knowledge of individual in proper storage of food.**
+Individuals face this issues, as inefficient food storage can lead to food waste. This is where the expiration date comes into play: acquiring supplies without realizing there is still food in the storage, resulting in expired or unconsumed food. Improper storage of foods tends to spoil easily and go rotten. 
+
+**Buying extra food.**
+The amount of food may be too much for an individual or to the household to consume before the expiration date which again eventually go to food wastes.
+
 
 ## Significance of the proposed topic
 The key findings of this study may be significant and redound the following entities
@@ -34,8 +43,13 @@ The key findings of this study may be significant and redound the following enti
 This analysis aims to collect reliable datasets and information that will help researchers gain a deeper understanding in terms of the effects of food waste from different sectors. Most of the datasets came from the United Nations Environment Programme (UNEP) Report 2021. According to this report, 931 million tonnes each year get wasted from the three sectors, including households, retailers, and food service. The other datasets to be used include the waste proportion, population index, and global hunger index. A correlation matrix will also be present to justify the relationship between various variables. In this analysis, the variables that will be used are: ASEAN GDP, population, household tonnes per year, food service tonnes per year, and retail tonnes per year. Furthermore, Linear Regression Analysis will be employed to show the relationship between variables such as three sectors capita per year and population index. 
 
 ## Expected Output
-    
-The goal of this project is to provide a clear visualization in able to better analyze the amount of food production made by the countries in Southeast Asia. The data collected targets to show how massive the total numbers of food waste was made per year and how this contributes to global hunger. This study is expected to serve as awareness to the community, most especially, to the government, to start minimizing and evaluating the factors that contribute to the continuous increase in the number of food waste. It also aims to achieve responsible food consumption and production to avoid unneccessary food waste.  To to attain zero hunger, the excess produced food that is near to its expiry will be recommended to put and make into good use such as donating it to the less fortunate family or individual before it become a food waste.
+
+**Action plan for a proper Food Consumption.**
+Create an action plan for a proper consumption food in order to reduce food waste specifically targeting the household which implies in data visualization a while ago as the most robust sector among the three. Basically, a good practice of food consumption start from one individual that can be shared to the people around him.  
+
+**Food Donation Campaign or Promotion.**
+A food donation campaign or promotion to people in need of food. This can be accomplished through a social media promotion in which all collected supplies are given to a family who does not earn much and whose problem is deciding what to put in their stomach to alleviate hunger. A perfect example for this is the community pantry during pandemic lockdown. It was started from one pantry until it was posted on social media and gain lots of engagement and encourage other community to do the same setting. This community pantry is a volunteer effort, as those who have extra food will be urged to donate it rather than throw it away. Through this, SDG number 2 will be addressed as it will unite every individual to help starving people. 
+
 
 ## Sustainable Development Goals
 The SDG’s below are the target of this project: 
